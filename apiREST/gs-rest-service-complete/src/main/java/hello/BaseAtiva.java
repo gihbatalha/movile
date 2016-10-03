@@ -1,0 +1,27 @@
+package hello;
+
+public class BaseAtiva {
+  String operadora;
+  int qtd;
+  
+  public BaseAtiva(String operadora)
+  { 	  
+	this.operadora = operadora;  
+  }
+  
+public String getOperadora() {
+	return operadora;
+}
+public int getQtd() {
+	return qtd;
+}
+public void setOperadora(String operadora) {
+	this.operadora = operadora;
+}
+public void setQtd(int qtd) {
+	this.qtd = qtd;
+}
+  
+  
+  
+}

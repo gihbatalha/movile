@@ -1,0 +1,12 @@
+package hello;
+
+public class Cancelamento {
+	private int total = 0;
+	private int volutario = 0;
+	private int involuntario = 0;
+	
+	private void addVoluntario(){
+		voluntario++;
+		total++;		
+	} 
+}

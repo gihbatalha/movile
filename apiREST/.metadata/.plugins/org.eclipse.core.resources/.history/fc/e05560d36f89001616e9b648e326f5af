@@ -1,0 +1,8 @@
+package hello;
+
+public class Cancelamento {
+	private int cancTotal = 0;
+	private int cancVol = 0;
+	private int cacInv = 0;
+
+}
